@@ -14,3 +14,6 @@ EmailAdres = 'emek@gmail.com'
 
 Select * from Personel1
 
+delete Personel1
+where PersonelID = 2
+
