@@ -1,0 +1,1 @@
+drop view [Mexico Customers]vv--tabloyu view klasöründe görürsün bu satýr ile kaldýrmýþ olduk
