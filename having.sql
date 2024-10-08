@@ -11,5 +11,6 @@ HAVING condition;*/ -- kullanýmý vardýr
 
 select COUNT(CustomerID), Country from Customers
 group by Country
+having COUNT(CustomerID)>5
 
 
